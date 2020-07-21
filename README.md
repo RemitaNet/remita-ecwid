@@ -10,7 +10,7 @@
 
 With Remita Ecwid Payment Plugin, the store admin can easily add all desired payment methods to the Ecwid webshop. Please refer to https://www.remita.net for an overview of all features and services.
 
-![](assets/remita-inline.png)
+![](assets/remita-inline.PNG)
 
 ### Plugin Features
 
@@ -31,16 +31,24 @@ Ecwid makes it possible for small business owners and merchants to easily set up
 The instructions below shows you how to accept payments on your Ecwid site with Remita.
 
 1. Kindly log on to https://www.ecwid.com/ if you have an existing account or sign up for a new account.
-![](assets/ecwid-home.png)
+
+![](assets/ecwid-home.PNG)
+
 
 2. Please click on the __Payment__ tab on the left side of your account’s dashboard, and scroll down to the __Others ways to get paid__ section. Here you will be required to click on the __Choose Payment Processor__ button.
-![](assets/ecwid-process.png)
+
+![](assets/ecwid-process.PNG)
+
 
 3. Choose __Remita Payment Gateway__.
-![](assets/ecwid-process.png)
+
+![](assets/ecwid-process.PNG)
+
 
 4. Please wait while the Merchant page loads.
-![](assets/ecwid-process.png)
+
+![](assets/ecwid-process.PNG)
+
 
 5. Here you will be required to set-up the Remita environment you wish to have on your Ecwid account. To achieve this;
     
@@ -53,20 +61,30 @@ The instructions below shows you how to accept payments on your Ecwid site with 
     Hurray! You are done configuring your Ecwid site. You can now close this page by clicking on the __X__ button on the top right side.
 
 6. Now Visit your site’s store and click on the item you wish to purchase.
-![](assets/ecwid-shop.png)
+
+![](assets/ecwid-shop.PNG)
+
 
 7. Next, click on the __Add to Bag__ button.
-![](assets/ecwid-bag.png)
+
+![](assets/ecwid-bag.PNG)
+
 
 8. Input your email address and click on __Checkout__.
-![](assets/ecwid-checkout.png)
+
+![](assets/ecwid-checkout.PNG)
+
 
 9. Select __Remita Payment Gateway__ as your payment method and input the other required details as shown.
-![](assets/ecwid-checkout.png)
+
+![](assets/ecwid-checkout.PNG)
+
 
 10. Input your card details and click on pay.
-![](assets/remita-inline2.png)
 
-![](assets/remita-success.png)
+![](assets/remita-inline2.PNG)
+
+![](assets/remita-success.PNG)
+
 
 Thank you for setting up Remita Payment Gateway on Ecwid following this simple steps.
