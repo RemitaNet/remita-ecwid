@@ -2,13 +2,14 @@
 ### How to setup Remita Payment Gateway on Ecwid Platform
 
 ---
-- [Summary](#summary)
+- [Overview](#Overview)
 - [Plugin Features](#Plugin Features)
 - [Installation instructions](#Installation instructions)
----
-### Summary
+- [Contributing](#Contributing)
 
-With Remita Ecwid Payment Plugin, the store admin can easily add all desired payment methods to the Ecwid webshop. Please refer to https://www.remita.net for an overview of all features and services.
+---
+### Overview
+The store admin can easily add all desired payment methods to the Ecwid webshop using Remita Ecwid Plugins. Please refer to [remita](https://www.remita.net) for an overview of all features and services.
 
 ![](assets/remita-inline.PNG)
 
@@ -94,4 +95,10 @@ Thank you for setting up Remita Payment Gateway on Ecwid following this simple s
     
 ## Support
 - For all other support needs, support@remita.net
-- To contribute to this repo, create an issue on what you intend to fix or update, make a PR and team will look into it and merge.
+### Contributing
+To contribute to this repo, kindly follow the steps below:
+- Fork the repository
+- Create a new branch: `git checkout -b feature-name`
+- Make changes and commit: `git commit -m "added some new features"`
+- Make pushes: `git push origin feature-name`
+- Submit a PR (Pull Request)
